@@ -225,7 +225,7 @@
 .obzor {
   font-size: 15px;
 }
-.logout {
+.Sainup {
   width: 150px;
   height: 50px;
   flex-shrink: 0;
@@ -235,7 +235,7 @@
   background-color: rgb(0, 128, 128);
   transition: all 0.5s;
 }
-.logout:hover {
+.Sainup:hover {
   background-color: #fff;
 }
 @media only screen and (max-width: 1300px) {

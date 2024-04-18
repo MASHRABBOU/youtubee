@@ -50,7 +50,11 @@ document.getElementById("Pinterest").addEventListener("click", function () {
   window.open("https://ru.pinterest.com/gulomovmashrabboy51/", "_blank");
 });
 document.getElementById("Tumblr").addEventListener("click", function () {
-  window.open("https://www.reddit.com/user/Putrid-Car-7518/submitted/", "_blank");
-});document.getElementById("Twitter").addEventListener("click", function () {
+  window.open(
+    "https://www.reddit.com/user/Putrid-Car-7518/submitted/",
+    "_blank"
+  );
+});
+document.getElementById("Twitter").addEventListener("click", function () {
   window.open("https://twitter.com/PlusLapto97828", "_blank");
 });
